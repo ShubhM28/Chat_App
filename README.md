@@ -1,23 +1,15 @@
-HiChat
+Chat Application
 ===
  
 A chat application built with Node.js and socket.io.
 
-View the live demo: https://lonewalkerchatapp.herokuapp.com/
-
-Features
----
-* send pictures :sunrise:
-* send emojis :smile:
-* keyboard support :musical_keyboard:
-* online users count statistic :ghost:
 
 How to run
 ---
-1. download the code then extract
-2. run `npm install` from command line window
-3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
-4. finnaly, open your browser and visit `localhost:3000`
+1. git clone https://github.com/ShubhM28/Chat_App.git
+2. run `npm install` 
+3. run `node server` 
+4. open your browser and visit `localhost:3000`
 
 
 
